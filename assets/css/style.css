@@ -2,6 +2,15 @@
   box-sizing: border-box;
 }
 
-.inl-bk {
+article {
   display: inline-block;
+  margin: 20px;
+  width: 20%;
+}
+
+article img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  object-fit: cover;
 }
